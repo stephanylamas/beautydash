@@ -1,2 +1,2 @@
 # beautydash
-Beauty Dash: ETL Pipeline + Analytics Dashboard for Popular Beauty Products in 2025's Global Market 
+Beauty Dash: ETL Pipeline & Analytics Dashboard for 2025’s Global Beauty Market
